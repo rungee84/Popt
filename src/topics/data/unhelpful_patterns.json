@@ -1,0 +1,80 @@
+{
+  "title": "Unhelpful Thinking Patterns",
+  "thoughtPairs": [
+    {
+      "negative": "If one thing goes wrong, everything is ruined",
+      "positive": "One setback doesn't negate all progress",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "I should always be productive",
+      "positive": "Rest and recovery are important parts of being productive",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "Everyone thinks I'm incompetent",
+      "positive": "Different people have different opinions, and many value my contributions",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "This challenge will be impossible to overcome",
+      "positive": "I can break down challenges into manageable steps",
+      "distortion": "Fortune Telling"
+    },
+    {
+      "negative": "Making a mistake means total failure",
+      "positive": "Mistakes are opportunities to learn and improve",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "I must never disappoint anyone",
+      "positive": "It's normal and okay to not meet everyone's expectations",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "People are always criticizing me",
+      "positive": "Some feedback is constructive and helps me grow",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "Life is either perfect or terrible",
+      "positive": "Most experiences fall somewhere in between extremes",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "Things will always be this difficult",
+      "positive": "Circumstances and abilities can change over time",
+      "distortion": "Fortune Telling"
+    },
+    {
+      "negative": "Any criticism means I'm worthless",
+      "positive": "Feedback is about specific actions, not my whole worth",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "Others have it all figured out",
+      "positive": "Everyone faces their own struggles and uncertainties",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "I'm either in complete control or totally helpless",
+      "positive": "I can influence many situations even if I can't control everything",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "This problem will destroy my future",
+      "positive": "Most problems have solutions or ways to cope",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "I should never need help",
+      "positive": "Seeking support shows wisdom and self-awareness",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "Nothing will ever work out for me",
+      "positive": "Some things work out, others don't - that's normal",
+      "distortion": "Fortune Telling"
+    }
+  ]
+}

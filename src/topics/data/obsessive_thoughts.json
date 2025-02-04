@@ -1,0 +1,80 @@
+{
+  "title": "Obsessive Thoughts",
+  "thoughtPairs": [
+    {
+      "negative": "I must control every thought",
+      "positive": "It's normal for thoughts to come and go",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "These thoughts mean something is wrong with me",
+      "positive": "Having thoughts doesn't make them true or meaningful",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "If I think it, it will happen",
+      "positive": "Thoughts are just thoughts, not predictions or actions",
+      "distortion": "Fortune Telling"
+    },
+    {
+      "negative": "Either I have complete control or I'm out of control",
+      "positive": "There's a middle ground between control and chaos",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "If I lose focus, something terrible will happen",
+      "positive": "My attention can naturally shift without causing harm",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "I should be able to stop these thoughts instantly",
+      "positive": "Learning to manage thoughts takes time and practice",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "Everyone can tell I'm struggling with these thoughts",
+      "positive": "My thoughts are private unless I choose to share them",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "These thoughts will keep getting worse forever",
+      "positive": "With support and practice, thoughts can become more manageable",
+      "distortion": "Fortune Telling"
+    },
+    {
+      "negative": "Having bad thoughts makes me a bad person",
+      "positive": "My thoughts don't define my character",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "If I think about it too much, I'll lose control",
+      "positive": "I can observe thoughts without being controlled by them",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "People will reject me if they knew my thoughts",
+      "positive": "Many people experience intrusive thoughts and understand",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "I must figure out why I have each thought",
+      "positive": "Not every thought needs analysis or explanation",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "One unwanted thought will spiral into many",
+      "positive": "I can practice returning to the present moment",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "I'm either in control or completely helpless",
+      "positive": "I can work on managing thoughts while accepting some uncertainty",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "These thoughts will prevent me from living normally",
+      "positive": "I can live a full life while working on thought management",
+      "distortion": "Fortune Telling"
+    }
+  ]
+}

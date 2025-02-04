@@ -1,0 +1,80 @@
+{
+  "title": "Decision Making",
+  "thoughtPairs": [
+    {
+      "negative": "I'll make the wrong choice and regret it forever",
+      "positive": "I can learn from any decision and adjust my path",
+      "distortion": "Fortune Telling"
+    },
+    {
+      "negative": "I must be 100% certain before deciding",
+      "positive": "Most decisions can be modified or reversed if needed",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "If I choose wrong, everything will fall apart",
+      "positive": "One decision rarely determines everything",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "Everyone else makes better decisions than me",
+      "positive": "Everyone faces uncertainty in decision-making",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "Either this decision will be perfect or terrible",
+      "positive": "Most decisions have both advantages and disadvantages",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "I should be able to decide instantly",
+      "positive": "It's okay to take time to gather information and reflect",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "Others will judge me harshly for my choice",
+      "positive": "Different people make different choices based on their circumstances",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "I know this will be the worst decision of my life",
+      "positive": "Each decision is an opportunity to learn and grow",
+      "distortion": "Fortune Telling"
+    },
+    {
+      "negative": "Making a wrong choice means I'm incompetent",
+      "positive": "Everyone makes some choices they would revise with hindsight",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "If I take too long to decide, I'll miss out completely",
+      "positive": "Taking reasonable time to decide often leads to better outcomes",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "I can't handle the responsibility of this decision",
+      "positive": "I can break this decision down into manageable steps",
+      "distortion": "Catastrophizing"
+    },
+    {
+      "negative": "Once I decide, I can never change course",
+      "positive": "Many decisions can be adjusted or refined over time",
+      "distortion": "All-or-Nothing Thinking"
+    },
+    {
+      "negative": "Everyone will blame me if this doesn't work out perfectly",
+      "positive": "People understand that outcomes aren't always predictable",
+      "distortion": "Mind Reading"
+    },
+    {
+      "negative": "I should never second-guess my decisions",
+      "positive": "It's normal to reflect on and learn from our choices",
+      "distortion": "Should Statements"
+    },
+    {
+      "negative": "This decision will determine my entire future",
+      "positive": "Life paths often evolve through many decisions over time",
+      "distortion": "Fortune Telling"
+    }
+  ]
+}
